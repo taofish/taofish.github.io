@@ -1,6 +1,6 @@
 # TAO Blog
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [View Live TAO Blog &rarr;](https://taofish.github.io)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
@@ -11,7 +11,7 @@
 Want to clone a boilerplate instead of my buzz blog? Here comes this!  
 
 ```
-$ git clone git@github.com:Huxpro/huxblog-boilerplate.git
+$ git clone git@github.com:taofish/taofish.github.io.git
 ```
 
 **[View Boilerplate Here &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
