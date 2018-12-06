@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How does SW-Precache works?
-author: "Hux"
+author: "Tao"
 header-style: text
 lang: en
 tags:
